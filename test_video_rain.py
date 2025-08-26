@@ -89,6 +89,7 @@ if __name__ == "__main__":
     times = []
 
     for v in range(len(video_list)//2):
+        Net.set_new_video()
         video = video_list[v*2]
 
         print("Test on video %d/%d: %s" % (v + 1, len(video_list), video))
