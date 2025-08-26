@@ -132,12 +132,18 @@ CUDA_VISIBLE_DEVICES=0 python test_video_rain.py
 ```
 # Test for real video
 
-1. Modify the configurations in test_mpevnet_others.sh
+1. Modify the configurations in test_video_rain.sh
 
 2. run the code 
 
 ```
 bash test_video_rain.sh
+```
+
+# Compute PSNR and SSIM
+
+```
+python comp_psnr_ssim.py --path1 [restoration_result] --path2 [ground_truth]
 ```
 
 
