@@ -1,0 +1,12 @@
+hazy/C005
+gt/C005
+hazy/E005
+gt/E005
+hazy/E006
+gt/E006
+hazy/J004
+gt/J004
+hazy/L006
+gt/L006
+hazy/W002
+gt/W002

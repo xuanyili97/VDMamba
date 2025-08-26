@@ -1,0 +1,4 @@
+a2_Rain
+a2_GT
+../Dataset_Testing_RealRain/ra3_Rain
+../Dataset_Testing_RealRain/ra3_spacCNN

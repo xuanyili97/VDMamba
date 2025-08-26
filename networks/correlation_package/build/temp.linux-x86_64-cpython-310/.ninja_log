@@ -1,0 +1,3 @@
+# ninja log v5
+0	20643	1743973312483381216	/home1/ssq/proj8_selfderain/SLDNet_code/networks/correlation_package/build/temp.linux-x86_64-cpython-310/correlation_cuda.o	7cb8e2bb51fdff0
+1	48730	1743973340619380006	/home1/ssq/proj8_selfderain/SLDNet_code/networks/correlation_package/build/temp.linux-x86_64-cpython-310/correlation_cuda_kernel.o	d3014ce75c553c2e
