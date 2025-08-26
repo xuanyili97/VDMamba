@@ -71,7 +71,41 @@ torchvision 0.10.1
 
 ```
 
-## RainSynComplex
+## RainSynComplex25 & RainSynLight25
+
+1. Download the RainSynComplex25 & RainSynLight25 dataset from https://github.com/flyywh/J4RNet-Deep-Video-Deraining-CVPR-2018
+
+2. Extract all clips from .zip files
+
+3. The extracted files should have the following structure:
+
+```
+├── RainSynComplex25 or RainSynLight25
+
+    ├── video_rain_heavy or video_rain_light
+
+        ├── train
+
+            ├── input
+
+                ...
+
+            ├── processed
+
+                ...
+
+        ├── test
+
+            ├── input
+
+                ...
+
+            ├── processed
+
+                ...
+
+
+```
 
 ## RVDT
 
@@ -80,7 +114,7 @@ It is available in [Google Drive](https://drive.google.com/drive/folders/1o3WZlY
 
 # Train
 
-1. Modify the configurations in train_video_rain.sh
+1. Modify the configurations in train_video_rain.sh and comment out other unnecessary commands.
 
 2. Since we borrow the re-implementation of lightflownet3 from https://github.com/lhao0301/pytorch-liteflownet3 and https://github.com/NVIDIA/flownet2-pytorch, you should follow their step of installing correlation_package.
 

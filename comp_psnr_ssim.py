@@ -214,13 +214,6 @@ if __name__ == '__main__':
     
     total_psnr, total_ssim, frames_psnrs, frames_ssims = [], [], [], []
     
-    ########
-    '''
-    gt_path = '/home1/ssq/data/RainSynComplex25/singleImage/val/target/'
-    gt_path = '/home1/ssq/data/RainSynLight25/singleImage/val/target/'
-    total_psnr, total_ssim = compute_video(gt_path, pred_path, False)
-    '''
-    ########
     print(len(pred_paths), len(gt_paths))
     for gt_path, pred_path in zip(gt_paths, pred_paths):
         video_psnr, video_ssim, frames_psnr, frames_ssim = compute_video(gt_path, pred_path, ycbcr=ycbcr)
