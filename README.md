@@ -19,6 +19,10 @@ PyTorch 2.1.1
 
 torchvision 0.10.1
 
+# Pre-trained Model Weights
+
+Pre-trained model weights are in the folder ```checkpoints```
+
 # Visual Results
 
 |    Models    |                     NTURain                       |                      RainsynLight25                       |  RainsynComplex25 | RVDT |
