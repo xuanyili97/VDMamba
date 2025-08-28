@@ -21,14 +21,14 @@ torchvision 0.10.1
 
 # Visual Results
 
-|    Models    |                     NTURain                       |                      RainsynLight25                       |  RainsynComplex25 |
-| :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| MSCSC | [Google Drive](https://drive.google.com/file/d/1TG1TmY1-1q4ZPuLnBPd8t7F7zpxf0_zH/view?usp=sharing) | | |
-| SLDNet | [Google Drive](https://drive.google.com/file/d/1D3OpTigvXii8g4p2fycBmI9P9sUtwz5C/view?usp=sharing) | | |
-| S2VD | [Google Drive](https://drive.google.com/file/d/1k2RLW6WGiiM0tR3Xc8MFkDUOJ6SGeC6V/view?usp=sharing) | | |
-| MFGAN | [Google Drive](https://drive.google.com/file/d/1sRW2g3KnjlKAd2mXngiATBv1NDzmXbgT/view?usp=sharing) | | |
-| MPEVNet | [Google Drive](https://drive.google.com/file/d/17sfbWY3c5Xdjaf34JNuMIIRiB8WXHzxi/view?usp=sharing) | | |
-| VDMamva | [Google Drive](https://drive.google.com/file/d/1qnxC9ww7xrqC1MMPLyyJmxbhhpA_ktcW/view?usp=sharing) | | |
+|    Models    |                     NTURain                       |                      RainsynLight25                       |  RainsynComplex25 | RVDT |
+| :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| MSCSC | [Google Drive](https://drive.google.com/file/d/1TG1TmY1-1q4ZPuLnBPd8t7F7zpxf0_zH/view?usp=sharing) | | | |
+| SLDNet | [Google Drive](https://drive.google.com/file/d/1D3OpTigvXii8g4p2fycBmI9P9sUtwz5C/view?usp=sharing) | | | |
+| S2VD | [Google Drive](https://drive.google.com/file/d/1k2RLW6WGiiM0tR3Xc8MFkDUOJ6SGeC6V/view?usp=sharing) | | | |
+| MFGAN | [Google Drive](https://drive.google.com/file/d/1sRW2g3KnjlKAd2mXngiATBv1NDzmXbgT/view?usp=sharing) | | | |
+| MPEVNet | [Google Drive](https://drive.google.com/file/d/17sfbWY3c5Xdjaf34JNuMIIRiB8WXHzxi/view?usp=sharing) | | | |
+| VDMamva | [Google Drive](https://drive.google.com/file/d/1qnxC9ww7xrqC1MMPLyyJmxbhhpA_ktcW/view?usp=sharing) | | | |
 
 # Data preparation
 
